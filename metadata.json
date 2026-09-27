@@ -1,0 +1,7 @@
+{
+  "name": "Color Scroll",
+  "description": "Hands-free vertical scrolling using CameraX front camera color detection and Accessibility gestures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

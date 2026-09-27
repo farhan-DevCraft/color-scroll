@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Color Scroll</string>
+    <string name="accessibility_service_label">Color Scroll Auto-Scroller</string>
+    <string name="accessibility_service_description">Enables hands-free vertical scrolling gestures across video feeds and apps using front camera color triggers.</string>
+</resources>
